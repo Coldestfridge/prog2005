@@ -29,3 +29,12 @@ This is a RESTful API written in **Go (Golang)** that provides information about
 
    To get status information about the APIs:
    http://localhost:8080/countryinfo/v1/status/
+
+## Project structure
+countryinfo-api/
+│-- main.go
+│-- handlers/
+│   │-- country.go
+│   │-- population.go
+│   │-- status.go
+│-- README.md
