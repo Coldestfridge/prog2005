@@ -1,7 +1,7 @@
 package main
 
 import (
-	"prog2005/handlers"
+	"assignment1/handlers"
 	"log"
 	"net/http"
 	"os"
