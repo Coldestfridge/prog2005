@@ -12,7 +12,7 @@ This is a RESTful API written in **Go (Golang)** that provides information about
 
 2. **Clone this repository:**
    ```sh
-   git clone https://github.com/yourusername/countryinfo-api.git
+   git clone https://github.com/Coldestfridge/countryinfo-api.git
    cd countryinfo-api
 
 
