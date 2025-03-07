@@ -19,10 +19,9 @@ This is a RESTful API written in **Go (Golang)** that provides information about
 ## Usage
 1. Start the server
 2. when the server is started you can get information by using one of these commands in your browser
-   X should be replaced with country code
    
    To get information about a specific country:
-   http://localhost:8080/countryinfo/v1/info/X
+   http://localhost:8080/countryinfo/v1/info/X    (X should be replaced with country code)
 
    To get population information about a specific country:
    http://localhost:8080/countryinfo/v1/population/X?limit=2010-2015
